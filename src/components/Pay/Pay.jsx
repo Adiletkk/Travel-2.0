@@ -8,7 +8,7 @@ function Pay() {
         <h1>askjdhkl</h1>
         <div className={css.input}></div>
         <div className={css.left_bottom}>
-
+            <h2>asd</h2>
         </div>
     </div>
     <div className={css.right}>
