@@ -1,0 +1,26 @@
+@import '../../base.scss';
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 80px 0;
+    gap: 24px;
+    height: 372px;
+    h1 {
+        font-family: $barlow;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 64px;
+        line-height: 80px;
+        color: $title;
+    }
+    p {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;            
+        color: $text;
+    }
+}
